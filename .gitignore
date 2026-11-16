@@ -148,3 +148,5 @@ cython_debug/
 **/model/
 **/training_checkpoints/
 **/output/
+# Large report removed from the repo
+Doc/
